@@ -6,7 +6,7 @@ import teamcode.Objects.DriveTrain;
 import teamcode.Objects.Grabber;
 
 
-@TeleOp(name ="THE END TO A 2 CHAINZ SAGA... ON THE LAST EPISODE OF TWO CHAINZ TWO 222 CHAINZ, OUR HEROIC CHAINZ PUT AN END TO THEIR JOURNEY. NOW, A NEW HERO, HOWDY!, MAKES THEIR DEBUT IN THE NEXT FIRST ROBOTICS COMPETITION! ONLY FATE CAN TELL HOW THIS STORY WILL GO...", group = "TeleOp")
+@TeleOp(name ="This is a Teleop that uses one controller", group = "TeleOp")
 public class SingleDriverTeleop extends OpMode {
     //Initializing the main objects:
     Grabber grabber;

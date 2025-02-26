@@ -1,5 +1,7 @@
 package teamcode.OpModes.Autonomi.Yos;
 
+import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
@@ -7,7 +9,8 @@ import teamcode.Objects.BananaFruit;
 import teamcode.Objects.DriveTrain;
 import teamcode.Objects.Grabber;
 
-//@Autonomous(name ="Reset - Autonomous")
+@Autonomous(name ="Reset - Autonomous")
+@Disabled
 public class ResetAutonomous extends LinearOpMode {
 
     DriveTrain driveTrain;

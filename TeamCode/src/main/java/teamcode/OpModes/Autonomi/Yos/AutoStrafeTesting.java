@@ -1,5 +1,7 @@
 package teamcode.OpModes.Autonomi.Yos;
 
+import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
@@ -8,7 +10,8 @@ import teamcode.Objects.DriveTrain;
 import teamcode.Objects.Grabber;
 
 
-//@Autonomous(name ="StrafinRobo")
+@Autonomous(name ="StrafinRobo")
+@Disabled
 public class AutoStrafeTesting extends LinearOpMode {
 
     DriveTrain driveTrain;

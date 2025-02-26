@@ -7,7 +7,7 @@ import teamcode.Objects.DriveTrain;
 import teamcode.Objects.Grabber;
 
 
-@TeleOp(name ="HOWDY! (That's the name not the greeting) ON THIS EPISODE OF A NEW AND IMPROVED <HOWDY!> SERIES, TWO HOWDERS TWO WORK TOGETHER TO SUCCESSFULLY OUT HOWDY THE COMPETITION.", group = "TeleOp")
+@TeleOp(name ="This is a Teleop that uses 2 controllers.", group = "TeleOp")
 public class DualDriverTeleOp extends OpMode {
     //Initializing the main objects:
     Grabber grabber;

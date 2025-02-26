@@ -8,7 +8,7 @@ import teamcode.Objects.BananaFruit;
 import teamcode.Objects.DriveTrain;
 import teamcode.Objects.Grabber;
 
-@Autonomous(name ="Universal Parking - Autonomous - OSIDE")
+@Autonomous(name ="Universal Parking - Autonomous")
 public class UniversalParking_OSIDE extends LinearOpMode {
 
     DriveTrain driveTrain;

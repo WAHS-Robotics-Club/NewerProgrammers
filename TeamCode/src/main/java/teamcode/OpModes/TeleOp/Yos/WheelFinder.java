@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 
 import teamcode.Objects.DriveTrain;
 
-@TeleOp(name ="WheelFinder - LS", group = "TeleOp")
+@TeleOp(name ="WheelFinder", group = "TeleOp")
 public class WheelFinder extends OpMode {
     //Initializing the main objects:
     DriveTrain driveTrain;
