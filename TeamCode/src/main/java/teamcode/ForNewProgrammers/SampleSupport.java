@@ -34,7 +34,7 @@ public class SampleSupport {
     // YOU HAVE ENTERED THE GRABBER PROGRAMMING PORTION
 
     // Create a teleop method that opens and closes a claw made of servos using
-    // the a and b gamepad buttons
+    // the a and b gamepad buttons yo
 
 
 
