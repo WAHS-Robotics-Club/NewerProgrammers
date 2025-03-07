@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 //Name your class below
 
 public class SampleTeleop {
-    //Instanciate Objects below yo
+    //Instantiate Objects below
 
     //create initialization below
 
