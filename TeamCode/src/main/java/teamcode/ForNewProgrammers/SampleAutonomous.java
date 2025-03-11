@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 //Name your class below
 
 public class SampleAutonomous {
-    //Instanciate Objects below
+    //Instanciate Objects below YO!
 
     //create initialization below
 
